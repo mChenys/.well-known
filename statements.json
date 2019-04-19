@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "blog.csdn.net.mchenys",
+    "sha256_cert_fingerprints": ["FD:E0:32:E1:D3:01:2D:7E:66:3B:3E:F8:F0:EA:AE:D0:E0:6C:F8:61:96:73:1E:73:D6:25:35:42:5B:BF:36:D4"]
+  }
+}]
+
+ 
